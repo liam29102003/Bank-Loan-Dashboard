@@ -64,7 +64,8 @@ The dataset contains bank loan-related information such as:
 ---
 
 ## 🖼️ Dashboard Screenshots
-> KPIs
+### KPIs
+![KPIs](screenshots/KPIs_loan.png)
 > Overview Dashboard
 > Summary Dashboard
 > Detail Dashboard

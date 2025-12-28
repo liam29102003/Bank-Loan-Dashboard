@@ -64,11 +64,27 @@ The dataset contains bank loan-related information such as:
 ---
 
 ## 🖼️ Dashboard Screenshots
+
 ### KPIs
+
 ![KPIs](screenshots/KPIs_loan.png)
-> Overview Dashboard
-> Summary Dashboard
-> Detail Dashboard
+
+---
+### Overview Dashboard
+
+![Overview](screenshots/Overview_loan.png)
+
+---
+### Summary Dashboard
+
+![Summary](screenshots/Summary_loan.png)
+
+---
+### Detail Dashboard
+
+![Detail](screenshots/Detail_loan.png)
+
+---
 
 ## 🛠️ Data Preparation Steps
 1. Imported CSV data into Power BI
